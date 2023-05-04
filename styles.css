@@ -1,0 +1,91 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(204, 242, 243);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.giphy-embed {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: green;
+  }
+
+a:hover {
+    color: hotpink;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
+div.recipe-list {
+    text-align: center;
+    padding-top: 20px;
+}
+
+ 
+.alfjaores-image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.empanada-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.milanesa-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+h3 {
+    color:brown;
+    padding: 15px 0px;
+}
+
+div.recipe-info {
+    margin: 75px 300px;
+    
+}
+
+button.home {
+    background-color:rgb(208, 226, 43);
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.home:hover {
+    background: #eee;
+}
+
+.btn {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
